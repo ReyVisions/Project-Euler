@@ -1,0 +1,1 @@
+On a juste a sommer les termes de b, le premier a etant 1.
