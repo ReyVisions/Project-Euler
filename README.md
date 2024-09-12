@@ -1,7 +1,7 @@
 # Project Euler - Résolutions de Problèmes Mathématiques
 Bienvenue dans ce repository où je partage mes solutions aux problèmes mathématiques proposés sur le site Project Euler. Project Euler est une collection de défis en mathématiques et en algorithmique, nécessitant à la fois des compétences en programmation et en résolution de problèmes complexes.
 
-Structure du Repository
+# Structure du Repository
 Chaque problème est stocké dans un dossier distinct avec un fichier contenant la solution dans différents langages de programmation (Python ou autres). Voici la structure générale du repository :
 
 project-euler/
