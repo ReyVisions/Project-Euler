@@ -5,8 +5,8 @@ def main():
     b=2
     sum=0
     while b<4000000:
-        if a%2==0:
-            sum+=a
+        if b%2==0:
+            sum+=b
         temp=b
         b=a+b
         a=temp
