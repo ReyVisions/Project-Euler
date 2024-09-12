@@ -1,5 +1,6 @@
 import sys
 
+#First 10 problems
 
 def factor(entier):
     for i in range(2,int(entier**(1/2))+1):
