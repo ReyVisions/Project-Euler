@@ -5,25 +5,15 @@ Structure du Repository
 Chaque problème est stocké dans un dossier distinct avec un fichier contenant la solution dans différents langages de programmation (Python ou autres). Voici la structure générale du repository :
 
 project-euler/
-
 │
-
 ├── Problem_001/
-
 │   ├── solution.py
-
 │   └── README.md
-
 │
-
 ├── Problem_002/
-
 │   ├── solution.py
-
 │   └── README.md
-
 │
-
 └── ...
 
 solution.py : Fichier contenant la solution codée pour un problème spécifique.
