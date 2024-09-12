@@ -1,0 +1,1 @@
+Attention aux premiers termes avec le calcul de facteur jusqu'a racine de n. Parfois Racine de n<2

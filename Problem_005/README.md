@@ -1,0 +1,1 @@
+La solution plus jolie que celle que j'ai implementee a ete reprise dans le forum.
