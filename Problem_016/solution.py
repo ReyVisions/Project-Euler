@@ -2,12 +2,24 @@ import sys
 import time
 import math
 
+def optimized():
+    sum = 0
+    for n in str(2**1000):
+        sum += int(n)
+    return sum
 
 def main():
     # Commencer la mesure de temps
     start_time1 = time.time()
-
-    print(math.comb(40,20))
+    a=1
+    for i in range(1000):
+        a*=2
+    print(a)
+    seq=str(a)
+    sum=0
+    for i in seq:
+        sum+=int(i)
+    print(sum)
 
     # Fin de la mesure de temps
     end_time1 = time.time()
