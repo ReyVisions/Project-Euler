@@ -1,1 +1,1 @@
-RAS
+Une solution bien plus optimisee aurait pu etre codee.
