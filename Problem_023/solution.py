@@ -18,16 +18,13 @@ def main():
         if sum>n:
             abondants.append(n)
     print(abondants)
-    for i in range(28123):
+    list_NA=[]
+    for i in range(len(abondants)):
         for j in range(len(abondants)):
-            if i>abondants[j]:
-                copy=i
-                copy-=abondants[j]
-                if copy not in abondants:
-                    sum_non_abondants+=i
-            else:
-                sum_non_abondants+=i
-                break
+            list_NA.append(abondants[i]+abondants[j])
+    for i in range(28123):
+        if i not in list_NA:
+            sum_non_abondants+=i
     print(sum_non_abondants)
 
 
