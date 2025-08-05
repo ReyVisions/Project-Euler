@@ -57,4 +57,5 @@ Site officiel de Project Euler: https://projecteuler.net/about
 Mon profil Project Euler: https://projecteuler.net/profile/LitchiAtomique.png
 
 # Contact
-Si vous avez des questions ou souhaitez discuter de mes solutions, vous pouvez me contacter à l'adresse suivante : litchiatomique@gmail.com
+Si vous avez des questions ou souhaitez discuter de mes solutions, vous pouvez me contacter à l'adresse suivante : reyvisionz@gmail.com
+
