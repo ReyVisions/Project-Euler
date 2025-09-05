@@ -6,17 +6,13 @@ import math
 def main():
     start_time1 = time.time()
 
-    n=6
-    last_number=25
-    sum=101
-    while n<1001:
-        for i in range(4):
-            last_number+=n
-            sum+=last_number
-        n+=2
+    collection=set()
 
-    print(sum)
+    for a in range(2,101):
+        for b in range(2,101):
+            collection.add(a**b)
 
+    print(len(collection))
     end_time1 = time.time()
 
     # Calcul du temps écoulé
